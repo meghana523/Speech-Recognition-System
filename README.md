@@ -34,3 +34,6 @@
 *These systems can be trained using large datasets of paired audio and text, allowing them to learn speech patterns, accents, and contexts across various languages and environments.*
 
 *Overall, speech recognition systems are becoming increasingly accurate, fast, and capable of functioning in real-world, noisy environments, transforming how we interact with technology.*
+
+*Features*:
+![Image](https://github.com/user-attachments/assets/9f597343-4cc6-4b0b-a755-30d5b47ebe75)
