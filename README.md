@@ -36,4 +36,5 @@
 *Overall, speech recognition systems are becoming increasingly accurate, fast, and capable of functioning in real-world, noisy environments, transforming how we interact with technology.*
 
 *Features*:
+  *Converts audio into text*
 ![Image](https://github.com/user-attachments/assets/e88b0b32-4009-43d0-9265-49d65e955598)
